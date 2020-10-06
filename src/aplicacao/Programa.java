@@ -17,7 +17,7 @@ public class Programa {
 	 
 	 List<Colaborador> list = new ArrayList<>();
 	 
-	 System.out.print("Insira a quantidade de colaboradores: ");
+	 System.out.print("Insira a quantidade de co1laboradores: ");
 	 int n = sc.nextInt();
 	 
 	 for (int i=1; i<=n; i++) {
